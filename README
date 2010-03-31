@@ -1,3 +1,6 @@
+Copyright 2007, Matthew W. Hooker
+
+
 This was my entry for the OMGWTF (http://omg.worsethanfailure.com/)  programming competition. The object was to
 complete the simplest task (a 4 function calculator) in the most obtuse way
 possible. I use SendInput to mimic the CalcCalc user's input on the Windows
