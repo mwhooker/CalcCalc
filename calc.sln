@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "calc", "calc.vcproj", "{19C453CF-D64E-4FFA-A1FA-C1AE7BF62427}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{19C453CF-D64E-4FFA-A1FA-C1AE7BF62427}.Debug.ActiveCfg = Debug|Win32
+		{19C453CF-D64E-4FFA-A1FA-C1AE7BF62427}.Debug.Build.0 = Debug|Win32
+		{19C453CF-D64E-4FFA-A1FA-C1AE7BF62427}.Release.ActiveCfg = Release|Win32
+		{19C453CF-D64E-4FFA-A1FA-C1AE7BF62427}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
