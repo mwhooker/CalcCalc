@@ -1,3 +1,10 @@
+This was my entry for the [OMGWTF](http://omg.worsethanfailure.com/)  programming competition. The object was to
+complete the simplest task (a 4 function calculator) in the most obtuse way
+possible. I use SendInput to mimic the CalcCalc user's input on the Windows
+Calculator. I then copy the answer, using GetMessage, to the CalcCalc result
+field.
+
+
 Compilation instructions:
 load the project and hit compile. (F5 or ctrl+F5 under most MSVC installs)
 
